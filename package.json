@@ -3,8 +3,8 @@
     "version": "1.0.0",
     "description": "Website for KatPat Studio",
     "scripts": {
-        "tailwind": "tailwindcss -i ./src/index.css -o ./src/dist/index.css",
-        "tailwind-watch": "tailwindcss -i ./src/index.css -o ./dist/index.css --watch"
+        "tailwind": "tailwindcss -i ./index.css -o ./dist/index.css",
+        "tailwind-watch": "tailwindcss -i ./index.css -o ./dist/index.css --watch"
     },
     "author": "",
     "license": "ISC",

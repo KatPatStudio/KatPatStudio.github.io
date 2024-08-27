@@ -553,3 +553,8 @@ video {
   --tw-contain-paint:  ;
   --tw-contain-style:  ;
 }
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 70px;
+}
